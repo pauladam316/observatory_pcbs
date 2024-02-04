@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SI3443CDV-T1-GE3
+D MOSFET -20V Vds 12V Vgs TSOP-6
+K
+F https://datasheet.datasheetarchive.com/originals/dk/DKDS-23/455700.pdf
+$ENDCMP
+#
+#End Doc Library

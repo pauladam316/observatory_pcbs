@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PTD901-1015K-B103
+D Res Carbon Film POT 10K Ohm 10% 1/20W 1(Mech)Turn 6mm (22.05 X 9.5 X 11.3mm) Pin Panel Mount/Through Hole
+K
+F https://www.bourns.com/docs/Product-Datasheets/PTD90.pdf
+$ENDCMP
+#
+#End Doc Library

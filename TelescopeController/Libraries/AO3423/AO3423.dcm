@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AO3423
+D Trans MOSFET P-CH 20V 2A 3-Pin SOT-23 T/R
+K
+F http://www.aosmd.com/pdfs/datasheet/AO3423.pdf
+$ENDCMP
+#
+#End Doc Library

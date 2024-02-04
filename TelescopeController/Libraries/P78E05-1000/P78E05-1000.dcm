@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP P78E05-1000
+D Non-Isolated DC/DC Converters 8-36Vin +/-5V 1A SIP Non-Iso
+K
+F https://www.cui.com/product/resource/p78e-1000.pdf
+$ENDCMP
+#
+#End Doc Library

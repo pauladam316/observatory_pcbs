@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SMP3V3-M3_84A
+D Vishay SMP3V3-M3/84A Uni-Directional TVS Diode, 400W peak, 2-Pin DO-220AA
+K
+F http://www.vishay.com/docs/88481/smp3v3.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model INA181A1IDBVR
+#/839870/129876/2.50/6/3/Undefined or Miscellaneous
+DEF INA181A1IDBVR U 0 30 Y Y 1 F N
+F0 "U" 850 300 50 H V L CNN
+F1 "INA181A1IDBVR" 850 200 50 H V L CNN
+F2 "SOT95P280X145-6N" 850 100 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/ina181.pdf" 850 0 50 H I L CNN
+F4 "Current Sense Amplifiers 26V, Bidirectional, Low- or High-Side Voltage Output Current Sense Amplifier 6-SOT-23 -40 to 125" 850 -100 50 H I L CNN "Description"
+F5 "1.45" 850 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "INA181A1IDBVR" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-INA181A1IDBVR" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/INA181A1IDBVR?qs=5aG0NVq1C4wLgDhUNMFt2A%3D%3D" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "INA181A1IDBVR" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/ina181a1idbvr/texas-instruments?region=nac" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X OUT 1 0 0 200 R 50 50 0 0 O
+X GND 2 0 -100 200 R 50 50 0 0 W
+X IN+ 3 0 -200 200 R 50 50 0 0 I
+X VS 6 1000 0 200 L 50 50 0 0 W
+X REF 5 1000 -100 200 L 50 50 0 0 I
+X IN- 4 1000 -200 200 L 50 50 0 0 I
+P 5 0 1 6 200 100 800 100 800 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP INA181A1IDBVR
+D Current Sense Amplifiers 26V, Bidirectional, Low- or High-Side Voltage Output Current Sense Amplifier 6-SOT-23 -40 to 125
+K
+F http://www.ti.com/lit/ds/symlink/ina181.pdf
+$ENDCMP
+#
+#End Doc Library

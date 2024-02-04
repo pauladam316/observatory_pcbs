@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model PTD901-1015K-B103
+#/548962/129876/2.50/3/4/Variable Resistor
+DEF PTD901-1015K-B103 VR 0 30 Y Y 1 F N
+F0 "VR" 650 300 50 H V L CNN
+F1 "PTD901-1015K-B103" 650 200 50 H V L CNN
+F2 "PTD9011015KB103" 650 100 50 H I L CNN
+F3 "https://www.bourns.com/docs/Product-Datasheets/PTD90.pdf" 650 0 50 H I L CNN
+F4 "Res Carbon Film POT 10K Ohm 10% 1/20W 1(Mech)Turn 6mm (22.05 X 9.5 X 11.3mm) Pin Panel Mount/Through Hole" 650 -100 50 H I L CNN "Description"
+F5 "11.9" 650 -200 50 H I L CNN "Height"
+F6 "Bourns" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "PTD901-1015K-B103" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "652-PTD901-1015KB103" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Bourns/PTD901-1015K-B103?qs=h2IHEVivlqCjfZBh0jm4Mw%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "PTD901-1015K-B103" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/ptd901-1015k-b103/bourns?region=nac" 650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 0 -200 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

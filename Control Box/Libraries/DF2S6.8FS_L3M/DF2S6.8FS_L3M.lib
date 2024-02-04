@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model DF2S6.8FS,L3M
+#/1055899/129876/2.50/2/3/TVS Diode (Uni-directional)
+DEF DF2S6.8FS,L3M D 0 30 Y Y 1 F N
+F0 "D" 400 350 50 H V L BNN
+F1 "DF2S6.8FS,L3M" 400 250 50 H V L BNN
+F2 "SODFL1006X45N" 400 150 50 H I L BNN
+F3 "http://toshiba.semicon-storage.com/info/docget.jsp?did=22219&prodName=DF2S6.8FS" 400 50 50 H I L BNN
+F4 "ESD Suppressors / TVS Diodes ESD Protection Diode" 400 -50 50 H I L BNN "Description"
+F5 "0.45" 400 -150 50 H I L BNN "Height"
+F6 "Toshiba" 400 -250 50 H I L BNN "Manufacturer_Name"
+F7 "DF2S6.8FS,L3M" 400 -350 50 H I L BNN "Manufacturer_Part_Number"
+F8 "757-DF2S68FSL3M" 400 -450 50 H I L BNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Toshiba/DF2S6.8FSL3M?qs=eRmS5dli9yOjw7NUk6y8KQ%3D%3D" 400 -550 50 H I L BNN "Mouser Price/Stock"
+F10 "DF2S6.8FS,L3M" 400 -650 50 H I L BNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/df2s6.8fsl3m/toshiba?region=nac" 400 -750 50 H I L BNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 600 0 200 L 50 50 0 0 P
+P 4 0 1 6 200 0 400 100 400 -100 200 0 N
+P 2 0 1 6 200 -80 240 -100 N
+P 2 0 1 6 200 -80 200 80 N
+P 2 0 1 6 160 100 200 80 N
+ENDDRAW
+ENDDEF
+#
+#End Library

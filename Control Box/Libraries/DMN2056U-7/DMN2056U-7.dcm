@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMN2056U-7
+D DIODES INC. - DMN2056U-7 - MOSFET, AEC-Q101, N-CH, 20V, SOT-23
+K
+F https://www.diodes.com/assets/Datasheets/DMN2056U.pdf
+$ENDCMP
+#
+#End Doc Library
