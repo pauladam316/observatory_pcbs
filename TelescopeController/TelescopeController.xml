@@ -1,0 +1,2179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/adampaul/Local Documents/Observatory/observatory_pcbs/TelescopeController/TelescopeController.kicad_sch</source>
+    <date>2024 May 25, Saturday 10:41:16</date>
+    <tool>Eeschema 7.0.8</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>TelescopeController.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/12V_SWITCHING/" tstamps="/979fca36-8703-44d3-91ed-9d630dff4adb/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>12v_switching.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/12V_SWITCHING1/" tstamps="/23dd2fea-7840-477d-ad9b-765c8187b721/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>12v_switching.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/12V_SWITCHING2/" tstamps="/00503a22-69b6-42b3-9f95-98996579316d/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>12v_switching.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/12V_SWITCHING3/" tstamps="/99a9f577-bb8b-4ddf-bf87-90e55a8a0aaf/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>12v_switching.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/Control SW/" tstamps="/bd7eb281-3960-400d-ae01-b66be830f556/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>ControlSW.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/Control SW1/" tstamps="/6daebbe9-58c7-47f2-8f6b-aa832be29fb8/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>ControlSW.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/Control SW2/" tstamps="/515f19a6-a884-4329-bdf3-4bdeab9c8c9f/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>ControlSW.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/Control SW3/" tstamps="/ebb5a353-9537-42a9-911d-23b896ea5a0a/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>ControlSW.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="10" name="/Control SW4/" tstamps="/19a93400-7d67-40e8-abcb-d6bbaaf6204c/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>ControlSW.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="11" name="/Thermistor/" tstamps="/51b81697-ab36-4c58-92db-188fa0efbac6/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>thermistor.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="12" name="/Thermistor1/" tstamps="/b7c8f9f4-ac6d-4f27-a892-4cf9ff3cabd1/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>thermistor.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="13" name="/Thermistor2/" tstamps="/edc1d3b9-c610-4224-a16a-ec2bf2b2ef2c/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>thermistor.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="14" name="/Thermistor3/" tstamps="/9d0f1e4b-7cb4-47d1-b09f-2e3519ac8559/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>thermistor.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="A1">
+      <value>Arduino_Nano_v3.x</value>
+      <footprint>Module:Arduino_Nano</footprint>
+      <datasheet>http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf</datasheet>
+      <libsource lib="MCU_Module" part="Arduino_Nano_v3.x" description="Arduino Nano v3.x"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TelescopeController.kicad_sch"/>
+      <property name="ki_description" value="Arduino Nano v3.x"/>
+      <property name="ki_keywords" value="Arduino nano microcontroller module USB"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25d7c86d-0108-46a6-b169-b5a0d0d077ae</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TelescopeController.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5db477a7-5633-49e8-a459-2bd80103e9a2</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TelescopeController.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1aa30d6c-1a38-4a22-98d3-2d8c541152e4</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>SML-LX0805GC-TR</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TelescopeController.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1fe2e132-8e86-47a0-8ad9-254163aa9e60</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>SML-LX0805GC-TR</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TelescopeController.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6f09bd5-ecc4-4635-b02f-0c3158b511ee</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>SML-LX0805GC-TR</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TelescopeController.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c39521ff-8d29-4c6b-923f-b833adec9fd9</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>1A</value>
+      <footprint>Fuse:Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TelescopeController.kicad_sch"/>
+      <property name="ki_description" value="Fuse"/>
+      <property name="ki_keywords" value="fuse"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2348e22-832a-47ce-80ac-a839f1c8ce77</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>PJ-102BH</value>
+      <footprint>PJ-102BH:PJ-102AH</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/PJ-102BH.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">PJ-102BH</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/pj-102bh/cui-devices?region=nac</field>
+        <field name="Description">DC Power Connectors Power Jacks</field>
+        <field name="Manufacturer_Name">CUI Devices</field>
+        <field name="Manufacturer_Part_Number">PJ-102BH</field>
+        <field name="Mouser Part Number">490-PJ-102BH</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/CUI-Devices/PJ-102BH?qs=WyjlAZoYn51LQvDYqCqBtA%3D%3D</field>
+      </fields>
+      <libsource lib="PJ-102BH" part="PJ-102BH" description="DC Power Connectors Power Jacks"/>
+      <property name="Description" value="DC Power Connectors Power Jacks"/>
+      <property name="Height" value=""/>
+      <property name="Manufacturer_Name" value="CUI Devices"/>
+      <property name="Manufacturer_Part_Number" value="PJ-102BH"/>
+      <property name="Mouser Part Number" value="490-PJ-102BH"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/CUI-Devices/PJ-102BH?qs=WyjlAZoYn51LQvDYqCqBtA%3D%3D"/>
+      <property name="Arrow Part Number" value="PJ-102BH"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/pj-102bh/cui-devices?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TelescopeController.kicad_sch"/>
+      <property name="ki_description" value="DC Power Connectors Power Jacks"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8760d286-ee65-4956-866f-33206c373488</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>RCJ-041</value>
+      <footprint>RCJ-041:RCJ041</footprint>
+      <datasheet>https://www.cuidevices.com/product/resource/digikeypdf/rcj-04x.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">RCJ-041</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/rcj-041/cui-devices?region=nac</field>
+        <field name="Description">RCA Phono Connectors RCA Connectors</field>
+        <field name="Height">13</field>
+        <field name="Manufacturer_Name">CUI Devices</field>
+        <field name="Manufacturer_Part_Number">RCJ-041</field>
+        <field name="Mouser Part Number">490-RCJ-041</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/CUI-Devices/RCJ-041?qs=WyjlAZoYn52BTmz2mkbjnQ%3D%3D</field>
+      </fields>
+      <libsource lib="RCJ-041" part="RCJ-041" description="RCA Phono Connectors RCA Connectors"/>
+      <property name="Description" value="RCA Phono Connectors RCA Connectors"/>
+      <property name="Height" value="13"/>
+      <property name="Manufacturer_Name" value="CUI Devices"/>
+      <property name="Manufacturer_Part_Number" value="RCJ-041"/>
+      <property name="Mouser Part Number" value="490-RCJ-041"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/CUI-Devices/RCJ-041?qs=WyjlAZoYn52BTmz2mkbjnQ%3D%3D"/>
+      <property name="Arrow Part Number" value="RCJ-041"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/rcj-041/cui-devices?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TelescopeController.kicad_sch"/>
+      <property name="ki_description" value="RCA Phono Connectors RCA Connectors"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8983ca0-6c40-49d3-9809-3185e60a7930</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>RCJ-041</value>
+      <footprint>RCJ-041:RCJ041</footprint>
+      <datasheet>https://www.cuidevices.com/product/resource/digikeypdf/rcj-04x.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">RCJ-041</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/rcj-041/cui-devices?region=nac</field>
+        <field name="Description">RCA Phono Connectors RCA Connectors</field>
+        <field name="Height">13</field>
+        <field name="Manufacturer_Name">CUI Devices</field>
+        <field name="Manufacturer_Part_Number">RCJ-041</field>
+        <field name="Mouser Part Number">490-RCJ-041</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/CUI-Devices/RCJ-041?qs=WyjlAZoYn52BTmz2mkbjnQ%3D%3D</field>
+      </fields>
+      <libsource lib="RCJ-041" part="RCJ-041" description="RCA Phono Connectors RCA Connectors"/>
+      <property name="Description" value="RCA Phono Connectors RCA Connectors"/>
+      <property name="Height" value="13"/>
+      <property name="Manufacturer_Name" value="CUI Devices"/>
+      <property name="Manufacturer_Part_Number" value="RCJ-041"/>
+      <property name="Mouser Part Number" value="490-RCJ-041"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/CUI-Devices/RCJ-041?qs=WyjlAZoYn52BTmz2mkbjnQ%3D%3D"/>
+      <property name="Arrow Part Number" value="RCJ-041"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/rcj-041/cui-devices?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TelescopeController.kicad_sch"/>
+      <property name="ki_description" value="RCA Phono Connectors RCA Connectors"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>207a1e91-e39e-426d-a282-50b894ffb41e</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>RCJ-041</value>
+      <footprint>RCJ-041:RCJ041</footprint>
+      <datasheet>https://www.cuidevices.com/product/resource/digikeypdf/rcj-04x.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">RCJ-041</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/rcj-041/cui-devices?region=nac</field>
+        <field name="Description">RCA Phono Connectors RCA Connectors</field>
+        <field name="Height">13</field>
+        <field name="Manufacturer_Name">CUI Devices</field>
+        <field name="Manufacturer_Part_Number">RCJ-041</field>
+        <field name="Mouser Part Number">490-RCJ-041</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/CUI-Devices/RCJ-041?qs=WyjlAZoYn52BTmz2mkbjnQ%3D%3D</field>
+      </fields>
+      <libsource lib="RCJ-041" part="RCJ-041" description="RCA Phono Connectors RCA Connectors"/>
+      <property name="Description" value="RCA Phono Connectors RCA Connectors"/>
+      <property name="Height" value="13"/>
+      <property name="Manufacturer_Name" value="CUI Devices"/>
+      <property name="Manufacturer_Part_Number" value="RCJ-041"/>
+      <property name="Mouser Part Number" value="490-RCJ-041"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/CUI-Devices/RCJ-041?qs=WyjlAZoYn52BTmz2mkbjnQ%3D%3D"/>
+      <property name="Arrow Part Number" value="RCJ-041"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/rcj-041/cui-devices?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TelescopeController.kicad_sch"/>
+      <property name="ki_description" value="RCA Phono Connectors RCA Connectors"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e12ee69e-009f-47da-a538-6c6d9a3931ac</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x03_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Pin" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TelescopeController.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ace0c3f-5f1b-41ed-9d9f-02acc7cf4427</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>OSTVN02A150:OSTVN02A150</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TelescopeController.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4f7828a-f64e-48ed-994b-ce0da5f3bc8c</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>OSTVN02A150:OSTVN02A150</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TelescopeController.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2bdfc50f-11e0-4147-b9ed-9d50bb9c438a</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>OSTVN02A150:OSTVN02A150</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TelescopeController.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bcddb92-e7c0-4816-a118-a7d973a789ed</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>OSTVN02A150:OSTVN02A150</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TelescopeController.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6b5574b-48d9-4b4c-a58c-09f498a18186</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>OSTVN02A150:OSTVN02A150</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TelescopeController.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dddae5c8-9f93-449b-af49-476569370be3</tstamps>
+    </comp>
+    <comp ref="PS1">
+      <value>P78E05-1000</value>
+      <footprint>P78E05-1000:P78E051000</footprint>
+      <datasheet>https://www.cui.com/product/resource/p78e-1000.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">P78E05-1000</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/p78e05-1000/cui-inc?region=nac</field>
+        <field name="Height">10</field>
+        <field name="Manufacturer_Name">CUI Inc.</field>
+        <field name="Manufacturer_Part_Number">P78E05-1000</field>
+        <field name="Mouser Part Number">490-P78E05-1000</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/CUI-Inc/P78E05-1000?qs=qSfuJ%252Bfl%2Fd5TjVuYPuGfGA%3D%3D</field>
+      </fields>
+      <libsource lib="P78E05-1000" part="P78E05-1000" description="Non-Isolated DC/DC Converters 8-36Vin +/-5V 1A SIP Non-Iso"/>
+      <property name="Height" value="10"/>
+      <property name="Manufacturer_Name" value="CUI Inc."/>
+      <property name="Manufacturer_Part_Number" value="P78E05-1000"/>
+      <property name="Mouser Part Number" value="490-P78E05-1000"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/CUI-Inc/P78E05-1000?qs=qSfuJ%252Bfl%2Fd5TjVuYPuGfGA%3D%3D"/>
+      <property name="Arrow Part Number" value="P78E05-1000"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/p78e05-1000/cui-inc?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TelescopeController.kicad_sch"/>
+      <property name="ki_description" value="Non-Isolated DC/DC Converters 8-36Vin +/-5V 1A SIP Non-Iso"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a258911-04b2-474e-935d-1fbb7022dc6b</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>140R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TelescopeController.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1fcea81-59f3-43de-966e-40fcdb3a2e3c</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>140R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TelescopeController.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dde09801-4e6e-4d7c-8037-009f4d9dfed3</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>490R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TelescopeController.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32d5a542-58ae-4397-a32d-30a600ca84c4</tstamps>
+    </comp>
+    <comp ref="VR1">
+      <value>PTD901-1015K-B103</value>
+      <footprint>PTD901-1015K-B103:PTD9011015KB103</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/PTD90.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">PTD901-1015K-B103</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ptd901-1015k-b103/bourns?region=nac</field>
+        <field name="Height">11.9</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">PTD901-1015K-B103</field>
+        <field name="Mouser Part Number">652-PTD901-1015KB103</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Bourns/PTD901-1015K-B103?qs=h2IHEVivlqCjfZBh0jm4Mw%3D%3D</field>
+      </fields>
+      <libsource lib="PTD901-1015K-B103" part="PTD901-1015K-B103" description="Res Carbon Film POT 10K Ohm 10% 1/20W 1(Mech)Turn 6mm (22.05 X 9.5 X 11.3mm) Pin Panel Mount/Through Hole"/>
+      <property name="Height" value="11.9"/>
+      <property name="Manufacturer_Name" value="Bourns"/>
+      <property name="Manufacturer_Part_Number" value="PTD901-1015K-B103"/>
+      <property name="Mouser Part Number" value="652-PTD901-1015KB103"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Bourns/PTD901-1015K-B103?qs=h2IHEVivlqCjfZBh0jm4Mw%3D%3D"/>
+      <property name="Arrow Part Number" value="PTD901-1015K-B103"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/ptd901-1015k-b103/bourns?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TelescopeController.kicad_sch"/>
+      <property name="ki_description" value="Res Carbon Film POT 10K Ohm 10% 1/20W 1(Mech)Turn 6mm (22.05 X 9.5 X 11.3mm) Pin Panel Mount/Through Hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10bda677-64ba-42a0-9a55-f12026061268</tstamps>
+    </comp>
+    <comp ref="VR4">
+      <value>PTD901-1015K-B103</value>
+      <footprint>PTD901-1015K-B103:PTD9011015KB103</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/PTD90.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">PTD901-1015K-B103</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ptd901-1015k-b103/bourns?region=nac</field>
+        <field name="Height">11.9</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">PTD901-1015K-B103</field>
+        <field name="Mouser Part Number">652-PTD901-1015KB103</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Bourns/PTD901-1015K-B103?qs=h2IHEVivlqCjfZBh0jm4Mw%3D%3D</field>
+      </fields>
+      <libsource lib="PTD901-1015K-B103" part="PTD901-1015K-B103" description="Res Carbon Film POT 10K Ohm 10% 1/20W 1(Mech)Turn 6mm (22.05 X 9.5 X 11.3mm) Pin Panel Mount/Through Hole"/>
+      <property name="Height" value="11.9"/>
+      <property name="Manufacturer_Name" value="Bourns"/>
+      <property name="Manufacturer_Part_Number" value="PTD901-1015K-B103"/>
+      <property name="Mouser Part Number" value="652-PTD901-1015KB103"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Bourns/PTD901-1015K-B103?qs=h2IHEVivlqCjfZBh0jm4Mw%3D%3D"/>
+      <property name="Arrow Part Number" value="PTD901-1015K-B103"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/ptd901-1015k-b103/bourns?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TelescopeController.kicad_sch"/>
+      <property name="ki_description" value="Res Carbon Film POT 10K Ohm 10% 1/20W 1(Mech)Turn 6mm (22.05 X 9.5 X 11.3mm) Pin Panel Mount/Through Hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0a1bfa9-070b-4e42-9f6b-bca1b4dd99ba</tstamps>
+    </comp>
+    <comp ref="VR5">
+      <value>PTD901-1015K-B103</value>
+      <footprint>PTD901-1015K-B103:PTD9011015KB103</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/PTD90.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">PTD901-1015K-B103</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ptd901-1015k-b103/bourns?region=nac</field>
+        <field name="Height">11.9</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">PTD901-1015K-B103</field>
+        <field name="Mouser Part Number">652-PTD901-1015KB103</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Bourns/PTD901-1015K-B103?qs=h2IHEVivlqCjfZBh0jm4Mw%3D%3D</field>
+      </fields>
+      <libsource lib="PTD901-1015K-B103" part="PTD901-1015K-B103" description="Res Carbon Film POT 10K Ohm 10% 1/20W 1(Mech)Turn 6mm (22.05 X 9.5 X 11.3mm) Pin Panel Mount/Through Hole"/>
+      <property name="Height" value="11.9"/>
+      <property name="Manufacturer_Name" value="Bourns"/>
+      <property name="Manufacturer_Part_Number" value="PTD901-1015K-B103"/>
+      <property name="Mouser Part Number" value="652-PTD901-1015KB103"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Bourns/PTD901-1015K-B103?qs=h2IHEVivlqCjfZBh0jm4Mw%3D%3D"/>
+      <property name="Arrow Part Number" value="PTD901-1015K-B103"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/ptd901-1015k-b103/bourns?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TelescopeController.kicad_sch"/>
+      <property name="ki_description" value="Res Carbon Film POT 10K Ohm 10% 1/20W 1(Mech)Turn 6mm (22.05 X 9.5 X 11.3mm) Pin Panel Mount/Through Hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51e38f3e-c154-450a-890a-38c21e7d18cf</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>SML-LX0805GC-TR</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="12V_SWITCHING"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/12V_SWITCHING/" tstamps="/979fca36-8703-44d3-91ed-9d630dff4adb/"/>
+      <tstamps>a35be71f-9450-4203-b7af-bd60f0087764</tstamps>
+    </comp>
+    <comp ref="F2">
+      <value>1A</value>
+      <footprint>Fuse:Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <property name="Sheetname" value="12V_SWITCHING"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="Fuse"/>
+      <property name="ki_keywords" value="fuse"/>
+      <sheetpath names="/12V_SWITCHING/" tstamps="/979fca36-8703-44d3-91ed-9d630dff4adb/"/>
+      <tstamps>a9d1c5a4-6759-44da-a7b7-8e0b5cff6053</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>DMN63D8LW-13</value>
+      <footprint>DMN63D8LW-13:SOT65P210X110-3N</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/DMN63D8LW.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">DMN63D8LW-13</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/dmn63d8lw-13/diodes-incorporated?region=nac</field>
+        <field name="Description">N-CHANNEL ENHANCEMENT MODE MOSFET.</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Diodes Inc.</field>
+        <field name="Manufacturer_Part_Number">DMN63D8LW-13</field>
+        <field name="Mouser Part Number">621-DMN63D8LW-13</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMN63D8LW-13?qs=nQSIdc08i%252Bc91siUJjxJqg%3D%3D</field>
+      </fields>
+      <libsource lib="DMN63D8LW-13" part="DMN63D8LW-13" description="N-CHANNEL ENHANCEMENT MODE MOSFET."/>
+      <property name="Description" value="N-CHANNEL ENHANCEMENT MODE MOSFET."/>
+      <property name="Height" value="1.1"/>
+      <property name="Manufacturer_Name" value="Diodes Inc."/>
+      <property name="Manufacturer_Part_Number" value="DMN63D8LW-13"/>
+      <property name="Mouser Part Number" value="621-DMN63D8LW-13"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMN63D8LW-13?qs=nQSIdc08i%252Bc91siUJjxJqg%3D%3D"/>
+      <property name="Arrow Part Number" value="DMN63D8LW-13"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/dmn63d8lw-13/diodes-incorporated?region=nac"/>
+      <property name="Sheetname" value="12V_SWITCHING"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="N-CHANNEL ENHANCEMENT MODE MOSFET."/>
+      <sheetpath names="/12V_SWITCHING/" tstamps="/979fca36-8703-44d3-91ed-9d630dff4adb/"/>
+      <tstamps>04ad085b-91eb-412c-b219-c948a1fdcd46</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>AO3423</value>
+      <footprint>AO3423:SOT95P280X125-3N</footprint>
+      <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3423.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">AO3423</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ao3423/alpha-and-omega-semiconductor?region=europe</field>
+        <field name="Height">1.25</field>
+        <field name="Manufacturer_Name">Alpha &amp; Omega Semiconductors</field>
+        <field name="Manufacturer_Part_Number">AO3423</field>
+      </fields>
+      <libsource lib="AO3423" part="AO3423" description="Trans MOSFET P-CH 20V 2A 3-Pin SOT-23 T/R"/>
+      <property name="Height" value="1.25"/>
+      <property name="Manufacturer_Name" value="Alpha &amp; Omega Semiconductors"/>
+      <property name="Manufacturer_Part_Number" value="AO3423"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value="AO3423"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/ao3423/alpha-and-omega-semiconductor?region=europe"/>
+      <property name="Sheetname" value="12V_SWITCHING"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="Trans MOSFET P-CH 20V 2A 3-Pin SOT-23 T/R"/>
+      <sheetpath names="/12V_SWITCHING/" tstamps="/979fca36-8703-44d3-91ed-9d630dff4adb/"/>
+      <tstamps>cce1f7d9-4dda-4f3c-9cc0-c2109bc51b08</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="12V_SWITCHING"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12V_SWITCHING/" tstamps="/979fca36-8703-44d3-91ed-9d630dff4adb/"/>
+      <tstamps>c8fb80fc-12ed-4879-9747-e0995495f77a</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="12V_SWITCHING"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12V_SWITCHING/" tstamps="/979fca36-8703-44d3-91ed-9d630dff4adb/"/>
+      <tstamps>944bb8e9-1a64-4420-9431-846dc63ccad7</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>490R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="12V_SWITCHING"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12V_SWITCHING/" tstamps="/979fca36-8703-44d3-91ed-9d630dff4adb/"/>
+      <tstamps>24b2d4fb-9e01-4834-b30e-76546c795ac2</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="12V_SWITCHING"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/12V_SWITCHING/" tstamps="/979fca36-8703-44d3-91ed-9d630dff4adb/"/>
+      <tstamps>c5ebac55-5e20-4969-9b23-c84b3685da99</tstamps>
+    </comp>
+    <comp ref="TP5">
+      <value>TestPoint</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="12V_SWITCHING"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/12V_SWITCHING/" tstamps="/979fca36-8703-44d3-91ed-9d630dff4adb/"/>
+      <tstamps>fbe15605-fd7b-438e-a52a-0604326f4290</tstamps>
+    </comp>
+    <comp ref="TP9">
+      <value>TestPoint</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="12V_SWITCHING"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/12V_SWITCHING/" tstamps="/979fca36-8703-44d3-91ed-9d630dff4adb/"/>
+      <tstamps>46976868-d2f3-4404-bb92-4445b6c1e0cb</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>SML-LX0805GC-TR</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="12V_SWITCHING1"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/12V_SWITCHING1/" tstamps="/23dd2fea-7840-477d-ad9b-765c8187b721/"/>
+      <tstamps>a35be71f-9450-4203-b7af-bd60f0087764</tstamps>
+    </comp>
+    <comp ref="F3">
+      <value>1A</value>
+      <footprint>Fuse:Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <property name="Sheetname" value="12V_SWITCHING1"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="Fuse"/>
+      <property name="ki_keywords" value="fuse"/>
+      <sheetpath names="/12V_SWITCHING1/" tstamps="/23dd2fea-7840-477d-ad9b-765c8187b721/"/>
+      <tstamps>a9d1c5a4-6759-44da-a7b7-8e0b5cff6053</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>DMN63D8LW-13</value>
+      <footprint>DMN63D8LW-13:SOT65P210X110-3N</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/DMN63D8LW.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">DMN63D8LW-13</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/dmn63d8lw-13/diodes-incorporated?region=nac</field>
+        <field name="Description">N-CHANNEL ENHANCEMENT MODE MOSFET.</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Diodes Inc.</field>
+        <field name="Manufacturer_Part_Number">DMN63D8LW-13</field>
+        <field name="Mouser Part Number">621-DMN63D8LW-13</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMN63D8LW-13?qs=nQSIdc08i%252Bc91siUJjxJqg%3D%3D</field>
+      </fields>
+      <libsource lib="DMN63D8LW-13" part="DMN63D8LW-13" description="N-CHANNEL ENHANCEMENT MODE MOSFET."/>
+      <property name="Description" value="N-CHANNEL ENHANCEMENT MODE MOSFET."/>
+      <property name="Height" value="1.1"/>
+      <property name="Manufacturer_Name" value="Diodes Inc."/>
+      <property name="Manufacturer_Part_Number" value="DMN63D8LW-13"/>
+      <property name="Mouser Part Number" value="621-DMN63D8LW-13"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMN63D8LW-13?qs=nQSIdc08i%252Bc91siUJjxJqg%3D%3D"/>
+      <property name="Arrow Part Number" value="DMN63D8LW-13"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/dmn63d8lw-13/diodes-incorporated?region=nac"/>
+      <property name="Sheetname" value="12V_SWITCHING1"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="N-CHANNEL ENHANCEMENT MODE MOSFET."/>
+      <sheetpath names="/12V_SWITCHING1/" tstamps="/23dd2fea-7840-477d-ad9b-765c8187b721/"/>
+      <tstamps>04ad085b-91eb-412c-b219-c948a1fdcd46</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>AO3423</value>
+      <footprint>AO3423:SOT95P280X125-3N</footprint>
+      <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3423.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">AO3423</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ao3423/alpha-and-omega-semiconductor?region=europe</field>
+        <field name="Height">1.25</field>
+        <field name="Manufacturer_Name">Alpha &amp; Omega Semiconductors</field>
+        <field name="Manufacturer_Part_Number">AO3423</field>
+      </fields>
+      <libsource lib="AO3423" part="AO3423" description="Trans MOSFET P-CH 20V 2A 3-Pin SOT-23 T/R"/>
+      <property name="Height" value="1.25"/>
+      <property name="Manufacturer_Name" value="Alpha &amp; Omega Semiconductors"/>
+      <property name="Manufacturer_Part_Number" value="AO3423"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value="AO3423"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/ao3423/alpha-and-omega-semiconductor?region=europe"/>
+      <property name="Sheetname" value="12V_SWITCHING1"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="Trans MOSFET P-CH 20V 2A 3-Pin SOT-23 T/R"/>
+      <sheetpath names="/12V_SWITCHING1/" tstamps="/23dd2fea-7840-477d-ad9b-765c8187b721/"/>
+      <tstamps>cce1f7d9-4dda-4f3c-9cc0-c2109bc51b08</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="12V_SWITCHING1"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12V_SWITCHING1/" tstamps="/23dd2fea-7840-477d-ad9b-765c8187b721/"/>
+      <tstamps>c8fb80fc-12ed-4879-9747-e0995495f77a</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="12V_SWITCHING1"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12V_SWITCHING1/" tstamps="/23dd2fea-7840-477d-ad9b-765c8187b721/"/>
+      <tstamps>944bb8e9-1a64-4420-9431-846dc63ccad7</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>490R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="12V_SWITCHING1"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12V_SWITCHING1/" tstamps="/23dd2fea-7840-477d-ad9b-765c8187b721/"/>
+      <tstamps>24b2d4fb-9e01-4834-b30e-76546c795ac2</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TestPoint</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="12V_SWITCHING1"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/12V_SWITCHING1/" tstamps="/23dd2fea-7840-477d-ad9b-765c8187b721/"/>
+      <tstamps>c5ebac55-5e20-4969-9b23-c84b3685da99</tstamps>
+    </comp>
+    <comp ref="TP6">
+      <value>TestPoint</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="12V_SWITCHING1"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/12V_SWITCHING1/" tstamps="/23dd2fea-7840-477d-ad9b-765c8187b721/"/>
+      <tstamps>fbe15605-fd7b-438e-a52a-0604326f4290</tstamps>
+    </comp>
+    <comp ref="TP10">
+      <value>TestPoint</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="12V_SWITCHING1"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/12V_SWITCHING1/" tstamps="/23dd2fea-7840-477d-ad9b-765c8187b721/"/>
+      <tstamps>46976868-d2f3-4404-bb92-4445b6c1e0cb</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>SML-LX0805GC-TR</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="12V_SWITCHING2"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/12V_SWITCHING2/" tstamps="/00503a22-69b6-42b3-9f95-98996579316d/"/>
+      <tstamps>a35be71f-9450-4203-b7af-bd60f0087764</tstamps>
+    </comp>
+    <comp ref="F4">
+      <value>1A</value>
+      <footprint>Fuse:Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <property name="Sheetname" value="12V_SWITCHING2"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="Fuse"/>
+      <property name="ki_keywords" value="fuse"/>
+      <sheetpath names="/12V_SWITCHING2/" tstamps="/00503a22-69b6-42b3-9f95-98996579316d/"/>
+      <tstamps>a9d1c5a4-6759-44da-a7b7-8e0b5cff6053</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>DMN63D8LW-13</value>
+      <footprint>DMN63D8LW-13:SOT65P210X110-3N</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/DMN63D8LW.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">DMN63D8LW-13</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/dmn63d8lw-13/diodes-incorporated?region=nac</field>
+        <field name="Description">N-CHANNEL ENHANCEMENT MODE MOSFET.</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Diodes Inc.</field>
+        <field name="Manufacturer_Part_Number">DMN63D8LW-13</field>
+        <field name="Mouser Part Number">621-DMN63D8LW-13</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMN63D8LW-13?qs=nQSIdc08i%252Bc91siUJjxJqg%3D%3D</field>
+      </fields>
+      <libsource lib="DMN63D8LW-13" part="DMN63D8LW-13" description="N-CHANNEL ENHANCEMENT MODE MOSFET."/>
+      <property name="Description" value="N-CHANNEL ENHANCEMENT MODE MOSFET."/>
+      <property name="Height" value="1.1"/>
+      <property name="Manufacturer_Name" value="Diodes Inc."/>
+      <property name="Manufacturer_Part_Number" value="DMN63D8LW-13"/>
+      <property name="Mouser Part Number" value="621-DMN63D8LW-13"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMN63D8LW-13?qs=nQSIdc08i%252Bc91siUJjxJqg%3D%3D"/>
+      <property name="Arrow Part Number" value="DMN63D8LW-13"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/dmn63d8lw-13/diodes-incorporated?region=nac"/>
+      <property name="Sheetname" value="12V_SWITCHING2"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="N-CHANNEL ENHANCEMENT MODE MOSFET."/>
+      <sheetpath names="/12V_SWITCHING2/" tstamps="/00503a22-69b6-42b3-9f95-98996579316d/"/>
+      <tstamps>04ad085b-91eb-412c-b219-c948a1fdcd46</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>AO3423</value>
+      <footprint>AO3423:SOT95P280X125-3N</footprint>
+      <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3423.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">AO3423</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ao3423/alpha-and-omega-semiconductor?region=europe</field>
+        <field name="Height">1.25</field>
+        <field name="Manufacturer_Name">Alpha &amp; Omega Semiconductors</field>
+        <field name="Manufacturer_Part_Number">AO3423</field>
+      </fields>
+      <libsource lib="AO3423" part="AO3423" description="Trans MOSFET P-CH 20V 2A 3-Pin SOT-23 T/R"/>
+      <property name="Height" value="1.25"/>
+      <property name="Manufacturer_Name" value="Alpha &amp; Omega Semiconductors"/>
+      <property name="Manufacturer_Part_Number" value="AO3423"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value="AO3423"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/ao3423/alpha-and-omega-semiconductor?region=europe"/>
+      <property name="Sheetname" value="12V_SWITCHING2"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="Trans MOSFET P-CH 20V 2A 3-Pin SOT-23 T/R"/>
+      <sheetpath names="/12V_SWITCHING2/" tstamps="/00503a22-69b6-42b3-9f95-98996579316d/"/>
+      <tstamps>cce1f7d9-4dda-4f3c-9cc0-c2109bc51b08</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="12V_SWITCHING2"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12V_SWITCHING2/" tstamps="/00503a22-69b6-42b3-9f95-98996579316d/"/>
+      <tstamps>c8fb80fc-12ed-4879-9747-e0995495f77a</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="12V_SWITCHING2"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12V_SWITCHING2/" tstamps="/00503a22-69b6-42b3-9f95-98996579316d/"/>
+      <tstamps>944bb8e9-1a64-4420-9431-846dc63ccad7</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>490R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="12V_SWITCHING2"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12V_SWITCHING2/" tstamps="/00503a22-69b6-42b3-9f95-98996579316d/"/>
+      <tstamps>24b2d4fb-9e01-4834-b30e-76546c795ac2</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>TestPoint</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="12V_SWITCHING2"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/12V_SWITCHING2/" tstamps="/00503a22-69b6-42b3-9f95-98996579316d/"/>
+      <tstamps>c5ebac55-5e20-4969-9b23-c84b3685da99</tstamps>
+    </comp>
+    <comp ref="TP7">
+      <value>TestPoint</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="12V_SWITCHING2"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/12V_SWITCHING2/" tstamps="/00503a22-69b6-42b3-9f95-98996579316d/"/>
+      <tstamps>fbe15605-fd7b-438e-a52a-0604326f4290</tstamps>
+    </comp>
+    <comp ref="TP11">
+      <value>TestPoint</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="12V_SWITCHING2"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/12V_SWITCHING2/" tstamps="/00503a22-69b6-42b3-9f95-98996579316d/"/>
+      <tstamps>46976868-d2f3-4404-bb92-4445b6c1e0cb</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>SML-LX0805GC-TR</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="12V_SWITCHING3"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/12V_SWITCHING3/" tstamps="/99a9f577-bb8b-4ddf-bf87-90e55a8a0aaf/"/>
+      <tstamps>a35be71f-9450-4203-b7af-bd60f0087764</tstamps>
+    </comp>
+    <comp ref="F5">
+      <value>1A</value>
+      <footprint>Fuse:Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <property name="Sheetname" value="12V_SWITCHING3"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="Fuse"/>
+      <property name="ki_keywords" value="fuse"/>
+      <sheetpath names="/12V_SWITCHING3/" tstamps="/99a9f577-bb8b-4ddf-bf87-90e55a8a0aaf/"/>
+      <tstamps>a9d1c5a4-6759-44da-a7b7-8e0b5cff6053</tstamps>
+    </comp>
+    <comp ref="Q7">
+      <value>DMN63D8LW-13</value>
+      <footprint>DMN63D8LW-13:SOT65P210X110-3N</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/DMN63D8LW.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">DMN63D8LW-13</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/dmn63d8lw-13/diodes-incorporated?region=nac</field>
+        <field name="Description">N-CHANNEL ENHANCEMENT MODE MOSFET.</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Diodes Inc.</field>
+        <field name="Manufacturer_Part_Number">DMN63D8LW-13</field>
+        <field name="Mouser Part Number">621-DMN63D8LW-13</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMN63D8LW-13?qs=nQSIdc08i%252Bc91siUJjxJqg%3D%3D</field>
+      </fields>
+      <libsource lib="DMN63D8LW-13" part="DMN63D8LW-13" description="N-CHANNEL ENHANCEMENT MODE MOSFET."/>
+      <property name="Description" value="N-CHANNEL ENHANCEMENT MODE MOSFET."/>
+      <property name="Height" value="1.1"/>
+      <property name="Manufacturer_Name" value="Diodes Inc."/>
+      <property name="Manufacturer_Part_Number" value="DMN63D8LW-13"/>
+      <property name="Mouser Part Number" value="621-DMN63D8LW-13"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMN63D8LW-13?qs=nQSIdc08i%252Bc91siUJjxJqg%3D%3D"/>
+      <property name="Arrow Part Number" value="DMN63D8LW-13"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/dmn63d8lw-13/diodes-incorporated?region=nac"/>
+      <property name="Sheetname" value="12V_SWITCHING3"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="N-CHANNEL ENHANCEMENT MODE MOSFET."/>
+      <sheetpath names="/12V_SWITCHING3/" tstamps="/99a9f577-bb8b-4ddf-bf87-90e55a8a0aaf/"/>
+      <tstamps>04ad085b-91eb-412c-b219-c948a1fdcd46</tstamps>
+    </comp>
+    <comp ref="Q8">
+      <value>AO3423</value>
+      <footprint>AO3423:SOT95P280X125-3N</footprint>
+      <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3423.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">AO3423</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ao3423/alpha-and-omega-semiconductor?region=europe</field>
+        <field name="Height">1.25</field>
+        <field name="Manufacturer_Name">Alpha &amp; Omega Semiconductors</field>
+        <field name="Manufacturer_Part_Number">AO3423</field>
+      </fields>
+      <libsource lib="AO3423" part="AO3423" description="Trans MOSFET P-CH 20V 2A 3-Pin SOT-23 T/R"/>
+      <property name="Height" value="1.25"/>
+      <property name="Manufacturer_Name" value="Alpha &amp; Omega Semiconductors"/>
+      <property name="Manufacturer_Part_Number" value="AO3423"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value="AO3423"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/ao3423/alpha-and-omega-semiconductor?region=europe"/>
+      <property name="Sheetname" value="12V_SWITCHING3"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="Trans MOSFET P-CH 20V 2A 3-Pin SOT-23 T/R"/>
+      <sheetpath names="/12V_SWITCHING3/" tstamps="/99a9f577-bb8b-4ddf-bf87-90e55a8a0aaf/"/>
+      <tstamps>cce1f7d9-4dda-4f3c-9cc0-c2109bc51b08</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="12V_SWITCHING3"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12V_SWITCHING3/" tstamps="/99a9f577-bb8b-4ddf-bf87-90e55a8a0aaf/"/>
+      <tstamps>c8fb80fc-12ed-4879-9747-e0995495f77a</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="12V_SWITCHING3"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12V_SWITCHING3/" tstamps="/99a9f577-bb8b-4ddf-bf87-90e55a8a0aaf/"/>
+      <tstamps>944bb8e9-1a64-4420-9431-846dc63ccad7</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>490R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="12V_SWITCHING3"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12V_SWITCHING3/" tstamps="/99a9f577-bb8b-4ddf-bf87-90e55a8a0aaf/"/>
+      <tstamps>24b2d4fb-9e01-4834-b30e-76546c795ac2</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>TestPoint</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="12V_SWITCHING3"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/12V_SWITCHING3/" tstamps="/99a9f577-bb8b-4ddf-bf87-90e55a8a0aaf/"/>
+      <tstamps>c5ebac55-5e20-4969-9b23-c84b3685da99</tstamps>
+    </comp>
+    <comp ref="TP8">
+      <value>TestPoint</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="12V_SWITCHING3"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/12V_SWITCHING3/" tstamps="/99a9f577-bb8b-4ddf-bf87-90e55a8a0aaf/"/>
+      <tstamps>fbe15605-fd7b-438e-a52a-0604326f4290</tstamps>
+    </comp>
+    <comp ref="TP12">
+      <value>TestPoint</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="12V_SWITCHING3"/>
+      <property name="Sheetfile" value="12v_switching.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/12V_SWITCHING3/" tstamps="/99a9f577-bb8b-4ddf-bf87-90e55a8a0aaf/"/>
+      <tstamps>46976868-d2f3-4404-bb92-4445b6c1e0cb</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Control SW"/>
+      <property name="Sheetfile" value="ControlSW.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Control SW/" tstamps="/bd7eb281-3960-400d-ae01-b66be830f556/"/>
+      <tstamps>d5e840f5-15f9-45a1-b210-fe659f5cb4ab</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Control SW"/>
+      <property name="Sheetfile" value="ControlSW.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Control SW/" tstamps="/bd7eb281-3960-400d-ae01-b66be830f556/"/>
+      <tstamps>249050ce-fcbf-4318-aa01-e6bf7cf32b02</tstamps>
+    </comp>
+    <comp ref="S5">
+      <value>AS1E-5M-10-Z</value>
+      <footprint>AS1E-5M-10-Z:AS1E5M10Z</footprint>
+      <datasheet>https://www.nidec-copal-electronics.com/e/catalog/switch/as.pdf</datasheet>
+      <fields>
+        <field name="Height">5</field>
+        <field name="Manufacturer_Name">NIDEC COPAL</field>
+        <field name="Manufacturer_Part_Number">AS1E-5M-10-Z</field>
+      </fields>
+      <libsource lib="AS1E-5M-10-Z" part="AS1E-5M-10-Z" description="NIDEC COPAL - AS1E-5M-10-Z - SLIDE SWITCH, SPDT, 0.05A, 48V, TH"/>
+      <property name="Height" value="5"/>
+      <property name="Manufacturer_Name" value="NIDEC COPAL"/>
+      <property name="Manufacturer_Part_Number" value="AS1E-5M-10-Z"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value="Control SW"/>
+      <property name="Sheetfile" value="ControlSW.kicad_sch"/>
+      <property name="ki_description" value="NIDEC COPAL - AS1E-5M-10-Z - SLIDE SWITCH, SPDT, 0.05A, 48V, TH"/>
+      <sheetpath names="/Control SW/" tstamps="/bd7eb281-3960-400d-ae01-b66be830f556/"/>
+      <tstamps>81b9278d-dbb6-4707-b3e4-4db733d1adcc</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Control SW1"/>
+      <property name="Sheetfile" value="ControlSW.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Control SW1/" tstamps="/6daebbe9-58c7-47f2-8f6b-aa832be29fb8/"/>
+      <tstamps>d5e840f5-15f9-45a1-b210-fe659f5cb4ab</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Control SW1"/>
+      <property name="Sheetfile" value="ControlSW.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Control SW1/" tstamps="/6daebbe9-58c7-47f2-8f6b-aa832be29fb8/"/>
+      <tstamps>249050ce-fcbf-4318-aa01-e6bf7cf32b02</tstamps>
+    </comp>
+    <comp ref="S2">
+      <value>AS1E-5M-10-Z</value>
+      <footprint>AS1E-5M-10-Z:AS1E5M10Z</footprint>
+      <datasheet>https://www.nidec-copal-electronics.com/e/catalog/switch/as.pdf</datasheet>
+      <fields>
+        <field name="Height">5</field>
+        <field name="Manufacturer_Name">NIDEC COPAL</field>
+        <field name="Manufacturer_Part_Number">AS1E-5M-10-Z</field>
+      </fields>
+      <libsource lib="AS1E-5M-10-Z" part="AS1E-5M-10-Z" description="NIDEC COPAL - AS1E-5M-10-Z - SLIDE SWITCH, SPDT, 0.05A, 48V, TH"/>
+      <property name="Height" value="5"/>
+      <property name="Manufacturer_Name" value="NIDEC COPAL"/>
+      <property name="Manufacturer_Part_Number" value="AS1E-5M-10-Z"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value="Control SW1"/>
+      <property name="Sheetfile" value="ControlSW.kicad_sch"/>
+      <property name="ki_description" value="NIDEC COPAL - AS1E-5M-10-Z - SLIDE SWITCH, SPDT, 0.05A, 48V, TH"/>
+      <sheetpath names="/Control SW1/" tstamps="/6daebbe9-58c7-47f2-8f6b-aa832be29fb8/"/>
+      <tstamps>81b9278d-dbb6-4707-b3e4-4db733d1adcc</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Control SW2"/>
+      <property name="Sheetfile" value="ControlSW.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Control SW2/" tstamps="/515f19a6-a884-4329-bdf3-4bdeab9c8c9f/"/>
+      <tstamps>d5e840f5-15f9-45a1-b210-fe659f5cb4ab</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Control SW2"/>
+      <property name="Sheetfile" value="ControlSW.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Control SW2/" tstamps="/515f19a6-a884-4329-bdf3-4bdeab9c8c9f/"/>
+      <tstamps>249050ce-fcbf-4318-aa01-e6bf7cf32b02</tstamps>
+    </comp>
+    <comp ref="S6">
+      <value>AS1E-5M-10-Z</value>
+      <footprint>AS1E-5M-10-Z:AS1E5M10Z</footprint>
+      <datasheet>https://www.nidec-copal-electronics.com/e/catalog/switch/as.pdf</datasheet>
+      <fields>
+        <field name="Height">5</field>
+        <field name="Manufacturer_Name">NIDEC COPAL</field>
+        <field name="Manufacturer_Part_Number">AS1E-5M-10-Z</field>
+      </fields>
+      <libsource lib="AS1E-5M-10-Z" part="AS1E-5M-10-Z" description="NIDEC COPAL - AS1E-5M-10-Z - SLIDE SWITCH, SPDT, 0.05A, 48V, TH"/>
+      <property name="Height" value="5"/>
+      <property name="Manufacturer_Name" value="NIDEC COPAL"/>
+      <property name="Manufacturer_Part_Number" value="AS1E-5M-10-Z"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value="Control SW2"/>
+      <property name="Sheetfile" value="ControlSW.kicad_sch"/>
+      <property name="ki_description" value="NIDEC COPAL - AS1E-5M-10-Z - SLIDE SWITCH, SPDT, 0.05A, 48V, TH"/>
+      <sheetpath names="/Control SW2/" tstamps="/515f19a6-a884-4329-bdf3-4bdeab9c8c9f/"/>
+      <tstamps>81b9278d-dbb6-4707-b3e4-4db733d1adcc</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Control SW3"/>
+      <property name="Sheetfile" value="ControlSW.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Control SW3/" tstamps="/ebb5a353-9537-42a9-911d-23b896ea5a0a/"/>
+      <tstamps>d5e840f5-15f9-45a1-b210-fe659f5cb4ab</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Control SW3"/>
+      <property name="Sheetfile" value="ControlSW.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Control SW3/" tstamps="/ebb5a353-9537-42a9-911d-23b896ea5a0a/"/>
+      <tstamps>249050ce-fcbf-4318-aa01-e6bf7cf32b02</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>AS1E-5M-10-Z</value>
+      <footprint>AS1E-5M-10-Z:AS1E5M10Z</footprint>
+      <datasheet>https://www.nidec-copal-electronics.com/e/catalog/switch/as.pdf</datasheet>
+      <fields>
+        <field name="Height">5</field>
+        <field name="Manufacturer_Name">NIDEC COPAL</field>
+        <field name="Manufacturer_Part_Number">AS1E-5M-10-Z</field>
+      </fields>
+      <libsource lib="AS1E-5M-10-Z" part="AS1E-5M-10-Z" description="NIDEC COPAL - AS1E-5M-10-Z - SLIDE SWITCH, SPDT, 0.05A, 48V, TH"/>
+      <property name="Height" value="5"/>
+      <property name="Manufacturer_Name" value="NIDEC COPAL"/>
+      <property name="Manufacturer_Part_Number" value="AS1E-5M-10-Z"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value="Control SW3"/>
+      <property name="Sheetfile" value="ControlSW.kicad_sch"/>
+      <property name="ki_description" value="NIDEC COPAL - AS1E-5M-10-Z - SLIDE SWITCH, SPDT, 0.05A, 48V, TH"/>
+      <sheetpath names="/Control SW3/" tstamps="/ebb5a353-9537-42a9-911d-23b896ea5a0a/"/>
+      <tstamps>81b9278d-dbb6-4707-b3e4-4db733d1adcc</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Control SW4"/>
+      <property name="Sheetfile" value="ControlSW.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Control SW4/" tstamps="/19a93400-7d67-40e8-abcb-d6bbaaf6204c/"/>
+      <tstamps>d5e840f5-15f9-45a1-b210-fe659f5cb4ab</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Control SW4"/>
+      <property name="Sheetfile" value="ControlSW.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Control SW4/" tstamps="/19a93400-7d67-40e8-abcb-d6bbaaf6204c/"/>
+      <tstamps>249050ce-fcbf-4318-aa01-e6bf7cf32b02</tstamps>
+    </comp>
+    <comp ref="S3">
+      <value>AS1E-5M-10-Z</value>
+      <footprint>AS1E-5M-10-Z:AS1E5M10Z</footprint>
+      <datasheet>https://www.nidec-copal-electronics.com/e/catalog/switch/as.pdf</datasheet>
+      <fields>
+        <field name="Height">5</field>
+        <field name="Manufacturer_Name">NIDEC COPAL</field>
+        <field name="Manufacturer_Part_Number">AS1E-5M-10-Z</field>
+      </fields>
+      <libsource lib="AS1E-5M-10-Z" part="AS1E-5M-10-Z" description="NIDEC COPAL - AS1E-5M-10-Z - SLIDE SWITCH, SPDT, 0.05A, 48V, TH"/>
+      <property name="Height" value="5"/>
+      <property name="Manufacturer_Name" value="NIDEC COPAL"/>
+      <property name="Manufacturer_Part_Number" value="AS1E-5M-10-Z"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value="Control SW4"/>
+      <property name="Sheetfile" value="ControlSW.kicad_sch"/>
+      <property name="ki_description" value="NIDEC COPAL - AS1E-5M-10-Z - SLIDE SWITCH, SPDT, 0.05A, 48V, TH"/>
+      <sheetpath names="/Control SW4/" tstamps="/19a93400-7d67-40e8-abcb-d6bbaaf6204c/"/>
+      <tstamps>81b9278d-dbb6-4707-b3e4-4db733d1adcc</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Thermistor"/>
+      <property name="Sheetfile" value="thermistor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Thermistor/" tstamps="/51b81697-ab36-4c58-92db-188fa0efbac6/"/>
+      <tstamps>9b26ca65-a490-4a47-82dc-9f3fbd08e742</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Thermistor1"/>
+      <property name="Sheetfile" value="thermistor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Thermistor1/" tstamps="/b7c8f9f4-ac6d-4f27-a892-4cf9ff3cabd1/"/>
+      <tstamps>9b26ca65-a490-4a47-82dc-9f3fbd08e742</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Thermistor2"/>
+      <property name="Sheetfile" value="thermistor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Thermistor2/" tstamps="/edc1d3b9-c610-4224-a16a-ec2bf2b2ef2c/"/>
+      <tstamps>9b26ca65-a490-4a47-82dc-9f3fbd08e742</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Thermistor3"/>
+      <property name="Sheetfile" value="thermistor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Thermistor3/" tstamps="/9d0f1e4b-7cb4-47d1-b09f-2e3519ac8559/"/>
+      <tstamps>9b26ca65-a490-4a47-82dc-9f3fbd08e742</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="AO3423" part="AO3423">
+      <description>Trans MOSFET P-CH 20V 2A 3-Pin SOT-23 T/R</description>
+      <docs>http://www.aosmd.com/pdfs/datasheet/AO3423.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">AO3423</field>
+        <field name="Footprint">SOT95P280X125-3N</field>
+        <field name="Datasheet">http://www.aosmd.com/pdfs/datasheet/AO3423.pdf</field>
+        <field name="Height">1.25</field>
+        <field name="Manufacturer_Name">Alpha &amp; Omega Semiconductors</field>
+        <field name="Manufacturer_Part_Number">AO3423</field>
+        <field name="Arrow Part Number">AO3423</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ao3423/alpha-and-omega-semiconductor?region=europe</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="AS1E-5M-10-Z" part="AS1E-5M-10-Z">
+      <description>NIDEC COPAL - AS1E-5M-10-Z - SLIDE SWITCH, SPDT, 0.05A, 48V, TH</description>
+      <docs>https://www.nidec-copal-electronics.com/e/catalog/switch/as.pdf</docs>
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">AS1E-5M-10-Z</field>
+        <field name="Footprint">AS1E5M10Z</field>
+        <field name="Datasheet">https://www.nidec-copal-electronics.com/e/catalog/switch/as.pdf</field>
+        <field name="Height">5</field>
+        <field name="Manufacturer_Name">NIDEC COPAL</field>
+        <field name="Manufacturer_Part_Number">AS1E-5M-10-Z</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="B1" name="B1" type="passive"/>
+        <pin num="B2" name="B2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Pin">
+      <description>Generic connector, single row, 01x03, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="DMN63D8LW-13" part="DMN63D8LW-13">
+      <description>N-CHANNEL ENHANCEMENT MODE MOSFET.</description>
+      <docs>https://www.diodes.com/assets/Datasheets/DMN63D8LW.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">DMN63D8LW-13</field>
+        <field name="Footprint">SOT65P210X110-3N</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/DMN63D8LW.pdf</field>
+        <field name="Description">N-CHANNEL ENHANCEMENT MODE MOSFET.</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Diodes Inc.</field>
+        <field name="Manufacturer_Part_Number">DMN63D8LW-13</field>
+        <field name="Mouser Part Number">621-DMN63D8LW-13</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMN63D8LW-13?qs=nQSIdc08i%252Bc91siUJjxJqg%3D%3D</field>
+        <field name="Arrow Part Number">DMN63D8LW-13</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/dmn63d8lw-13/diodes-incorporated?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse">
+      <description>Fuse</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*Fuse*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_Module" part="Arduino_Nano_v3.x">
+      <description>Arduino Nano v3.x</description>
+      <docs>http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf</docs>
+      <footprints>
+        <fp>Arduino*Nano*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">A</field>
+        <field name="Value">Arduino_Nano_v3.x</field>
+        <field name="Footprint">Module:Arduino_Nano</field>
+        <field name="Datasheet">http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D1/TX" type="bidirectional"/>
+        <pin num="2" name="D0/RX" type="bidirectional"/>
+        <pin num="3" name="~{RESET}" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="D2" type="bidirectional"/>
+        <pin num="6" name="D3" type="bidirectional"/>
+        <pin num="7" name="D4" type="bidirectional"/>
+        <pin num="8" name="D5" type="bidirectional"/>
+        <pin num="9" name="D6" type="bidirectional"/>
+        <pin num="10" name="D7" type="bidirectional"/>
+        <pin num="11" name="D8" type="bidirectional"/>
+        <pin num="12" name="D9" type="bidirectional"/>
+        <pin num="13" name="D10" type="bidirectional"/>
+        <pin num="14" name="D11" type="bidirectional"/>
+        <pin num="15" name="D12" type="bidirectional"/>
+        <pin num="16" name="D13" type="bidirectional"/>
+        <pin num="17" name="3V3" type="power_out"/>
+        <pin num="18" name="AREF" type="input"/>
+        <pin num="19" name="A0" type="bidirectional"/>
+        <pin num="20" name="A1" type="bidirectional"/>
+        <pin num="21" name="A2" type="bidirectional"/>
+        <pin num="22" name="A3" type="bidirectional"/>
+        <pin num="23" name="A4" type="bidirectional"/>
+        <pin num="24" name="A5" type="bidirectional"/>
+        <pin num="25" name="A6" type="bidirectional"/>
+        <pin num="26" name="A7" type="bidirectional"/>
+        <pin num="27" name="+5V" type="power_out"/>
+        <pin num="28" name="~{RESET}" type="input"/>
+        <pin num="29" name="GND" type="power_in"/>
+        <pin num="30" name="VIN" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="P78E05-1000" part="P78E05-1000">
+      <description>Non-Isolated DC/DC Converters 8-36Vin +/-5V 1A SIP Non-Iso</description>
+      <docs>https://www.cui.com/product/resource/p78e-1000.pdf</docs>
+      <fields>
+        <field name="Reference">PS</field>
+        <field name="Value">P78E05-1000</field>
+        <field name="Footprint">P78E051000</field>
+        <field name="Datasheet">https://www.cui.com/product/resource/p78e-1000.pdf</field>
+        <field name="Height">10</field>
+        <field name="Manufacturer_Name">CUI Inc.</field>
+        <field name="Manufacturer_Part_Number">P78E05-1000</field>
+        <field name="Mouser Part Number">490-P78E05-1000</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/CUI-Inc/P78E05-1000?qs=qSfuJ%252Bfl%2Fd5TjVuYPuGfGA%3D%3D</field>
+        <field name="Arrow Part Number">P78E05-1000</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/p78e05-1000/cui-inc?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+VIN" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="+VOUT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PJ-102BH" part="PJ-102BH">
+      <description>DC Power Connectors Power Jacks</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/PJ-102BH.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">PJ-102BH</field>
+        <field name="Footprint">PJ-102AH</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/PJ-102BH.pdf</field>
+        <field name="Description">DC Power Connectors Power Jacks</field>
+        <field name="Manufacturer_Name">CUI Devices</field>
+        <field name="Manufacturer_Part_Number">PJ-102BH</field>
+        <field name="Mouser Part Number">490-PJ-102BH</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/CUI-Devices/PJ-102BH?qs=WyjlAZoYn51LQvDYqCqBtA%3D%3D</field>
+        <field name="Arrow Part Number">PJ-102BH</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/pj-102bh/cui-devices?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PTD901-1015K-B103" part="PTD901-1015K-B103">
+      <description>Res Carbon Film POT 10K Ohm 10% 1/20W 1(Mech)Turn 6mm (22.05 X 9.5 X 11.3mm) Pin Panel Mount/Through Hole</description>
+      <docs>https://www.bourns.com/docs/Product-Datasheets/PTD90.pdf</docs>
+      <fields>
+        <field name="Reference">VR</field>
+        <field name="Value">PTD901-1015K-B103</field>
+        <field name="Footprint">PTD9011015KB103</field>
+        <field name="Datasheet">https://www.bourns.com/docs/Product-Datasheets/PTD90.pdf</field>
+        <field name="Height">11.9</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">PTD901-1015K-B103</field>
+        <field name="Mouser Part Number">652-PTD901-1015KB103</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Bourns/PTD901-1015K-B103?qs=h2IHEVivlqCjfZBh0jm4Mw%3D%3D</field>
+        <field name="Arrow Part Number">PTD901-1015K-B103</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ptd901-1015k-b103/bourns?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RCJ-041" part="RCJ-041">
+      <description>RCA Phono Connectors RCA Connectors</description>
+      <docs>https://www.cuidevices.com/product/resource/digikeypdf/rcj-04x.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">RCJ-041</field>
+        <field name="Footprint">RCJ041</field>
+        <field name="Datasheet">https://www.cuidevices.com/product/resource/digikeypdf/rcj-04x.pdf</field>
+        <field name="Description">RCA Phono Connectors RCA Connectors</field>
+        <field name="Height">13</field>
+        <field name="Manufacturer_Name">CUI Devices</field>
+        <field name="Manufacturer_Part_Number">RCJ-041</field>
+        <field name="Mouser Part Number">490-RCJ-041</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/CUI-Devices/RCJ-041?qs=WyjlAZoYn52BTmz2mkbjnQ%3D%3D</field>
+        <field name="Arrow Part Number">RCJ-041</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/rcj-041/cui-devices?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="AO3423">
+      <uri>/Users/adampaul/Local Documents/Observatory/observatory_pcbs/TelescopeController/Libraries/AO3423/AO3423.kicad_sym</uri>
+    </library>
+    <library logical="AS1E-5M-10-Z">
+      <uri>/Users/adampaul/Local Documents/Observatory/observatory_pcbs/TelescopeController/Libraries/AS1E-5M-10-Z/AS1E-5M-10-Z.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="DMN63D8LW-13">
+      <uri>/Users/adampaul/Local Documents/Observatory/observatory_pcbs/TelescopeController/Libraries/DMN63D8LW-13/DMN63D8LW-13.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="MCU_Module">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//MCU_Module.kicad_sym</uri>
+    </library>
+    <library logical="P78E05-1000">
+      <uri>/Users/adampaul/Local Documents/Observatory/observatory_pcbs/TelescopeController/Libraries/P78E05-1000/P78E05-1000.kicad_sym</uri>
+    </library>
+    <library logical="PJ-102BH">
+      <uri>/Users/adampaul/Local Documents/Observatory/observatory_pcbs/TelescopeController/Libraries/PJ-102BH/PJ-102BH.lib</uri>
+    </library>
+    <library logical="PTD901-1015K-B103">
+      <uri>/Users/adampaul/Local Documents/Observatory/observatory_pcbs/TelescopeController/Libraries/PTD901-1015K-B103/PTD901-1015K-B103.kicad_sym</uri>
+    </library>
+    <library logical="RCJ-041">
+      <uri>/Users/adampaul/Local Documents/Observatory/observatory_pcbs/TelescopeController/Libraries/RCJ-041/RCJ-041.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="A1" pin="27" pinfunction="+5V" pintype="power_out"/>
+      <node ref="J10" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="S1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="S2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="S3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="S5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="S6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="VR1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="VR4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="VR5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="2" name="+12V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="F2" pin="1" pintype="passive"/>
+      <node ref="F3" pin="1" pintype="passive"/>
+      <node ref="F4" pin="1" pintype="passive"/>
+      <node ref="F5" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="PS1" pin="1" pinfunction="+VIN" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="/12V_SWITCHING/IN">
+      <node ref="A1" pin="12" pinfunction="D9" pintype="bidirectional"/>
+      <node ref="Q1" pin="1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="TP5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="4" name="/12V_SWITCHING/OUT">
+      <node ref="J2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="TP9" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="5" name="/12V_SWITCHING1/IN">
+      <node ref="A1" pin="13" pinfunction="D10" pintype="bidirectional"/>
+      <node ref="Q3" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="TP6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="6" name="/12V_SWITCHING1/OUT">
+      <node ref="J3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="TP10" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="7" name="/12V_SWITCHING2/IN">
+      <node ref="A1" pin="14" pinfunction="D11" pintype="bidirectional"/>
+      <node ref="Q5" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="TP7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="8" name="/12V_SWITCHING2/OUT">
+      <node ref="J4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q6" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="TP11" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="9" name="/12V_SWITCHING3/IN">
+      <node ref="A1" pin="15" pinfunction="D12" pintype="bidirectional"/>
+      <node ref="Q7" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="TP8" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="10" name="/12V_SWITCHING3/OUT">
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q8" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="TP12" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="11" name="/CAP_CLOSE">
+      <node ref="A1" pin="11" pinfunction="D8" pintype="bidirectional"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="S1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="12" name="/CAP_OPEN">
+      <node ref="A1" pin="10" pinfunction="D7" pintype="bidirectional"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="S1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="13" name="/HEATER1_OFF">
+      <node ref="A1" pin="1" pinfunction="D1/TX" pintype="bidirectional"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="S5" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="14" name="/HEATER1_ON">
+      <node ref="A1" pin="2" pinfunction="D0/RX" pintype="bidirectional"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="S5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="15" name="/HEATER2_OFF">
+      <node ref="A1" pin="6" pinfunction="D3" pintype="bidirectional"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="S2" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="16" name="/HEATER2_ON">
+      <node ref="A1" pin="5" pinfunction="D2" pintype="bidirectional"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="S2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="17" name="/HEATER3_OFF">
+      <node ref="A1" pin="8" pinfunction="D5" pintype="bidirectional"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="S6" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="18" name="/HEATER3_ON">
+      <node ref="A1" pin="7" pinfunction="D4" pintype="bidirectional"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="S6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="19" name="/LIGHT_OFF">
+      <node ref="A1" pin="26" pinfunction="A7" pintype="bidirectional"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="S3" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="20" name="/LIGHT_ON">
+      <node ref="A1" pin="16" pinfunction="D13" pintype="bidirectional"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="S3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="21" name="/Thermistor/AOUT">
+      <node ref="A1" pin="22" pinfunction="A3" pintype="bidirectional"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="/Thermistor1/AOUT">
+      <node ref="A1" pin="23" pinfunction="A4" pintype="bidirectional"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="/Thermistor2/AOUT">
+      <node ref="A1" pin="24" pinfunction="A5" pintype="bidirectional"/>
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="/Thermistor3/AOUT">
+      <node ref="A1" pin="25" pinfunction="A6" pintype="bidirectional"/>
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="GND">
+      <node ref="A1" pin="29" pinfunction="GND" pintype="power_in"/>
+      <node ref="A1" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="PS1" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="Q1" pin="2" pintype="passive"/>
+      <node ref="Q3" pin="2" pintype="passive"/>
+      <node ref="Q5" pin="2" pintype="passive"/>
+      <node ref="Q7" pin="2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="VR1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="VR4" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="VR5" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(A1-A0)">
+      <node ref="A1" pin="19" pinfunction="A0" pintype="bidirectional"/>
+      <node ref="VR1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(A1-A1)">
+      <node ref="A1" pin="20" pinfunction="A1" pintype="bidirectional"/>
+      <node ref="VR4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(A1-A2)">
+      <node ref="A1" pin="21" pinfunction="A2" pintype="bidirectional"/>
+      <node ref="VR5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(A1-D6)">
+      <node ref="A1" pin="9" pinfunction="D6" pintype="bidirectional"/>
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D2-A)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D4-A)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D5-A)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D6-A)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D7-A)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(J5-Pin_2)">
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(PS1-+VOUT)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="PS1" pin="3" pinfunction="+VOUT" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(Q2-D)">
+      <node ref="F2" pin="2" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(Q2-G)">
+      <node ref="Q1" pin="3" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(Q4-D)">
+      <node ref="F3" pin="2" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(Q4-G)">
+      <node ref="Q3" pin="3" pintype="passive"/>
+      <node ref="Q4" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(Q6-D)">
+      <node ref="F4" pin="2" pintype="passive"/>
+      <node ref="Q6" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(Q6-G)">
+      <node ref="Q5" pin="3" pintype="passive"/>
+      <node ref="Q6" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(Q8-D)">
+      <node ref="F5" pin="2" pintype="passive"/>
+      <node ref="Q8" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(Q8-G)">
+      <node ref="Q7" pin="3" pintype="passive"/>
+      <node ref="Q8" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="47" name="unconnected-(A1-3V3-Pad17)">
+      <node ref="A1" pin="17" pinfunction="3V3" pintype="power_out"/>
+    </net>
+    <net code="48" name="unconnected-(A1-AREF-Pad18)">
+      <node ref="A1" pin="18" pinfunction="AREF" pintype="input"/>
+    </net>
+    <net code="49" name="unconnected-(A1-VIN-Pad30)">
+      <node ref="A1" pin="30" pinfunction="VIN" pintype="power_in"/>
+    </net>
+    <net code="50" name="unconnected-(A1-~{RESET}-Pad3)">
+      <node ref="A1" pin="3" pinfunction="~{RESET}" pintype="input"/>
+    </net>
+    <net code="51" name="unconnected-(A1-~{RESET}-Pad28)">
+      <node ref="A1" pin="28" pinfunction="~{RESET}" pintype="input"/>
+    </net>
+    <net code="52" name="unconnected-(S1-PadB1)">
+      <node ref="S1" pin="B1" pinfunction="B1" pintype="passive"/>
+    </net>
+    <net code="53" name="unconnected-(S1-PadB2)">
+      <node ref="S1" pin="B2" pinfunction="B2" pintype="passive"/>
+    </net>
+    <net code="54" name="unconnected-(S2-PadB1)">
+      <node ref="S2" pin="B1" pinfunction="B1" pintype="passive"/>
+    </net>
+    <net code="55" name="unconnected-(S2-PadB2)">
+      <node ref="S2" pin="B2" pinfunction="B2" pintype="passive"/>
+    </net>
+    <net code="56" name="unconnected-(S3-PadB1)">
+      <node ref="S3" pin="B1" pinfunction="B1" pintype="passive"/>
+    </net>
+    <net code="57" name="unconnected-(S3-PadB2)">
+      <node ref="S3" pin="B2" pinfunction="B2" pintype="passive"/>
+    </net>
+    <net code="58" name="unconnected-(S5-PadB1)">
+      <node ref="S5" pin="B1" pinfunction="B1" pintype="passive"/>
+    </net>
+    <net code="59" name="unconnected-(S5-PadB2)">
+      <node ref="S5" pin="B2" pinfunction="B2" pintype="passive"/>
+    </net>
+    <net code="60" name="unconnected-(S6-PadB1)">
+      <node ref="S6" pin="B1" pinfunction="B1" pintype="passive"/>
+    </net>
+    <net code="61" name="unconnected-(S6-PadB2)">
+      <node ref="S6" pin="B2" pinfunction="B2" pintype="passive"/>
+    </net>
+  </nets>
+</export>

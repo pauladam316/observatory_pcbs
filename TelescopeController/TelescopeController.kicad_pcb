@@ -264,7 +264,7 @@
     (pad "B2" thru_hole circle (at -5.08 -5.08 180) (size 1.5 1.5) (drill 1) (layers "*.Cu" "*.Mask")
       (net 55 "unconnected-(S3-PadB2)") (pinfunction "B2") (pintype "passive") (tstamp 017dbdbc-85fb-481c-9da3-3ab2123064b0))
     (model "${KIPRJMOD}/Libraries/AS1E-5M-10-Z/AS1E-5M-10-Z.stp"
-      (offset (xyz -8.5 2.5 2.5))
+      (offset (xyz -8.5 2.5 3.1))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
     )
@@ -462,7 +462,7 @@
     (pad "B2" thru_hole circle (at -5.08 -5.08 90) (size 1.5 1.5) (drill 1) (layers "*.Cu" "*.Mask")
       (net 57 "unconnected-(S5-PadB2)") (pinfunction "B2") (pintype "passive") (tstamp 9f2cc499-2264-44f1-8e22-75d9c4ba0dc1))
     (model "${KIPRJMOD}/Libraries/AS1E-5M-10-Z/AS1E-5M-10-Z.stp"
-      (offset (xyz -8.5 2.5 2.5))
+      (offset (xyz -8.5 2.5 3.1))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
     )
@@ -702,7 +702,7 @@
     (pad "B2" thru_hole circle (at -5.08 -5.08 90) (size 1.5 1.5) (drill 1) (layers "*.Cu" "*.Mask")
       (net 53 "unconnected-(S2-PadB2)") (pinfunction "B2") (pintype "passive") (tstamp cf71d521-c652-4126-b0f1-9c98f8907ea6))
     (model "${KIPRJMOD}/Libraries/AS1E-5M-10-Z/AS1E-5M-10-Z.stp"
-      (offset (xyz -8.5 2.5 2.5))
+      (offset (xyz -8.5 2.5 3.1))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
     )
@@ -1014,7 +1014,7 @@
       (net 4 "GND") (pinfunction "1") (pintype "passive") (tstamp fad71a1e-206f-4a41-8ddd-3e382ec58c15))
     (pad "2" thru_hole circle (at -4.5 0 90) (size 4.039 4.039) (drill 2.6926) (layers "*.Cu" "*.Mask")
       (net 39 "/12V_SWITCHING2/OUT") (pinfunction "2") (pintype "passive") (tstamp a819c923-be05-47ea-a412-d48b056a7c94))
-    (model "RCJ-041.stp"
+    (model "${KIPRJMOD}/Libraries/RCJ-041/RCJ-041.stp"
       (offset (xyz -6 0 6.5))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -1868,7 +1868,7 @@
     (pad "B2" thru_hole circle (at -5.08 -5.08 180) (size 1.5 1.5) (drill 1) (layers "*.Cu" "*.Mask")
       (net 51 "unconnected-(S1-PadB2)") (pinfunction "B2") (pintype "passive") (tstamp 5388c586-aeef-4d22-b16d-06f787f5309b))
     (model "${KIPRJMOD}/Libraries/AS1E-5M-10-Z/AS1E-5M-10-Z.stp"
-      (offset (xyz -8.5 2.5 2.5))
+      (offset (xyz -8.5 2.5 3.1))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
     )
@@ -3143,7 +3143,7 @@
     (pad "B2" thru_hole circle (at -5.08 -5.08 90) (size 1.5 1.5) (drill 1) (layers "*.Cu" "*.Mask")
       (net 59 "unconnected-(S6-PadB2)") (pinfunction "B2") (pintype "passive") (tstamp ff8f2ffb-255e-4ae8-9d5d-c317cff1a6b1))
     (model "${KIPRJMOD}/Libraries/AS1E-5M-10-Z/AS1E-5M-10-Z.stp"
-      (offset (xyz -8.5 2.5 2.5))
+      (offset (xyz -8.5 2.5 3.1))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
     )
@@ -3970,7 +3970,7 @@
       (net 4 "GND") (pinfunction "1") (pintype "passive") (tstamp 2f335217-cdf0-4bee-944f-758979c9b9c8))
     (pad "2" thru_hole circle (at -4.5 0 90) (size 4.039 4.039) (drill 2.6926) (layers "*.Cu" "*.Mask")
       (net 38 "/12V_SWITCHING1/OUT") (pinfunction "2") (pintype "passive") (tstamp 1bb5a27d-d183-4bce-8f5c-bf04a5cd034a))
-    (model "RCJ-041.stp"
+    (model "${KIPRJMOD}/Libraries/RCJ-041/RCJ-041.stp"
       (offset (xyz -6 0 6.5))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -5240,7 +5240,7 @@
       (net 4 "GND") (pinfunction "1") (pintype "passive") (tstamp e8166a73-b15c-45ea-83de-323f5675aa13))
     (pad "2" thru_hole circle (at -4.5 0 90) (size 4.039 4.039) (drill 2.6926) (layers "*.Cu" "*.Mask")
       (net 37 "/12V_SWITCHING/OUT") (pinfunction "2") (pintype "passive") (tstamp c37e5f38-c4b5-46a9-a32f-f1286d667d88))
-    (model "RCJ-041.stp"
+    (model "${KIPRJMOD}/Libraries/RCJ-041/RCJ-041.stp"
       (offset (xyz -6 0 6.5))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
