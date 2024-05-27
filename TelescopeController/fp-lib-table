@@ -9,4 +9,6 @@
   (lib (name "4527")(type "KiCad")(uri "${KIPRJMOD}/Libraries/4527")(options "")(descr ""))
   (lib (name "DMN63D8LW-13")(type "KiCad")(uri "${KIPRJMOD}/Libraries/DMN63D8LW-13")(options "")(descr ""))
   (lib (name "OSTVN02A150")(type "KiCad")(uri "${KIPRJMOD}/Libraries/OSTVN02A150")(options "")(descr ""))
+  (lib (name "AS1E-2M-10-Z")(type "KiCad")(uri "${KIPRJMOD}/Libraries/AS1E-2M-10-Z")(options "")(descr ""))
+  (lib (name "DMP3099L-7")(type "KiCad")(uri "${KIPRJMOD}/Libraries/DMP3099L-7")(options "")(descr ""))
 )

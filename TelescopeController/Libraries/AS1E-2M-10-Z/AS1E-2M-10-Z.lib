@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model AS1E-2M-10-Z
+#/1187625/129876/2.50/3/4/Switch
+DEF AS1E-2M-10-Z S 0 30 Y Y 1 F N
+F0 "S" 650 300 50 H V L CNN
+F1 "AS1E-2M-10-Z" 650 200 50 H V L CNN
+F2 "AS1E2M10Z" 650 100 50 H I L CNN
+F3 "https://www.nidec-copal-electronics.com/e/catalog/switch/as.pdf" 650 0 50 H I L CNN
+F4 "NIDEC COPAL - AS1E-2M-10-Z - SLIDE SWITCH, SPDT, 0.05A, 48V, TH" 650 -100 50 H I L CNN "Description"
+F5 "12.3" 650 -200 50 H I L CNN "Height"
+F6 "Nidec Copal" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "AS1E-2M-10-Z" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "229-AS1E-2M-10-Z" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Nidec-Copal/AS1E-2M-10-Z?qs=XeJtXLiO41SfK19XCq4wJw%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 0 -200 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

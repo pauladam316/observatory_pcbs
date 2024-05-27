@@ -250,7 +250,7 @@
     (property "Reference" "R1" (at 137.16 97.282 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10k" (at 137.16 99.822 0)
+    (property "Value" "10k, 0.1%" (at 137.16 99.822 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 132.842 98.552 90)

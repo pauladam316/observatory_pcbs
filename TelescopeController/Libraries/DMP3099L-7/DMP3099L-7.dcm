@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMP3099L-7
+D Diodes Inc DMP3099L-7 P-channel MOSFET Transistor, 2.9 A, -30 V, 3-Pin SOT-23
+K
+F https://www.diodes.com//assets/Datasheets/DMP3099L.pdf
+$ENDCMP
+#
+#End Doc Library

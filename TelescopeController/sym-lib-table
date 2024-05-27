@@ -1,6 +1,5 @@
 (sym_lib_table
   (version 7)
-  (lib (name "PJ-102BH")(type "Legacy")(uri "${KIPRJMOD}/Libraries/PJ-102BH/PJ-102BH.lib")(options "")(descr ""))
   (lib (name "DMN63D8LW-13")(type "Legacy")(uri "${KIPRJMOD}/Libraries/DMN63D8LW-13/DMN63D8LW-13.lib")(options "")(descr ""))
   (lib (name "AO3423")(type "KiCad")(uri "${KIPRJMOD}/Libraries/AO3423/AO3423.kicad_sym")(options "")(descr ""))
   (lib (name "4527")(type "Legacy")(uri "${KIPRJMOD}/Libraries/4527/4527.lib")(options "")(descr ""))
@@ -9,4 +8,6 @@
   (lib (name "AS1E-5M-10-Z")(type "KiCad")(uri "${KIPRJMOD}/Libraries/AS1E-5M-10-Z/AS1E-5M-10-Z.kicad_sym")(options "")(descr ""))
   (lib (name "AHQSH105LM100G")(type "KiCad")(uri "/Users/adampaul/Local Documents/Observatory/Control Box/Libraries/AHQSH105LM100G/AHQSH105LM100G.kicad_sym")(options "")(descr ""))
   (lib (name "PTD901-1015K-B103")(type "KiCad")(uri "${KIPRJMOD}/Libraries/PTD901-1015K-B103/PTD901-1015K-B103.kicad_sym")(options "")(descr ""))
+  (lib (name "AS1E-2M-10-Z")(type "KiCad")(uri "${KIPRJMOD}/Libraries/AS1E-2M-10-Z/AS1E-2M-10-Z.kicad_sym")(options "")(descr ""))
+  (lib (name "DMP3099L-7")(type "KiCad")(uri "${KIPRJMOD}/Libraries/DMP3099L-7/DMP3099L-7.kicad_sym")(options "")(descr ""))
 )
